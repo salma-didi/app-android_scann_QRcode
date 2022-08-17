@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QrGenerator</string>
+    <string name="g_n_rer_le_code_qr">générer le code QR</string>
+    <string name="scanner_le_code_qr">scanner le code QR</string>
+    <string name="Add_an_account">Add an acount</string>
+    <string name="log_in">log in</string>
+    <string name="Add_user">Add user</string>
+    <string name="Already_have_an_account">Already have an account</string>
+
+</resources>
